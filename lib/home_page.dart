@@ -75,7 +75,6 @@ class _HomePageState extends State<HomePage> {
         title: BounceInDown(
           child: const Text('Allen'),
         ),
-        leading: const Icon(Icons.menu),
         centerTitle: true,
       ),
       body: SingleChildScrollView(
